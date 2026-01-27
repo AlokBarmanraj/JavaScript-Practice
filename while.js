@@ -13,6 +13,15 @@ while(num<=10){
 }
 
 
+
+// Decremental while loop
+let c = 10;
+while(c >= 0){
+    console.log(c);
+    c--;
+}
+
+
 // 1 task 
 let message =1;
 while(message<=60){
